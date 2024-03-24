@@ -1,4 +1,4 @@
-FROM rayproject/ray:2.10.0-py310
+FROM rayproject/ray:2.10.0-py311
 
 COPY ./requirements.txt .
 
